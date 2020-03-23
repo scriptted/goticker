@@ -1,19 +1,10 @@
-# MIMIR
+# goticker
 
-An Another Trading Bot
+## Get started
 
-## Marketplace supported
-- Binance
-
-## How to
-```shell
-# Generate configuration file
-go run cmd/cli/*.go -dump-config > ./data/config.yml
-
-# Run bot
-go run cmd/cli/*.go -config ./data/config.yml
+### Run app
+make watch
 ```
 
 ## License
 AGPL-3.0
-# goticker

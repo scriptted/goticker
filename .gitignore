@@ -1,0 +1,4 @@
+/vendor
+/bin
+/data/*
+!data/.gitkeep
